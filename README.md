@@ -9,3 +9,8 @@ Demo code for College Notice Board:http://127.0.0.1:5500/clg.html
 
 Demo code for Responsive Photo Gallery:http://127.0.0.1:5500/gal.html
 <img width="1920" height="904" alt="Screenshot (162)" src="https://github.com/user-attachments/assets/47b3a47e-c11b-4c01-a6ee-e33bb44b05a0" />
+
+Demo code for Implement hover effect and transistion using css:http://127.0.0.1:5500/hover.html
+<img width="1920" height="913" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/2173ac2f-b9e0-4a94-97e2-110be935e04c" />
+
+<
